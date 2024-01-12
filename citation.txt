@@ -1,0 +1,10 @@
+@article{REPO281,
+    author = "Wang, Yuxi and Wu, Kaishun and Ni, Lionel M",
+    journal = "IEEE Transactions on Mobile Computing",
+    number = "2",
+    pages = "581--594",
+    publisher = "IEEE",
+    title = "{WiFall: Device-Free Fall Detection by Wireless Networks}",
+    volume = "16",
+    year = "2016"
+}
